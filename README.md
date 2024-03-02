@@ -11,3 +11,9 @@
 - [x] HTML5
 
 **_Day 2_**
+- [x] Basics of HTML
+    - [x] Tags
+    - [x] Links
+    - [x] Images
+    - [x] Table
+    - [x] Form
