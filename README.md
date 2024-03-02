@@ -19,4 +19,6 @@
     - [x] Form
 
 **_Day 3_**
-
+- [x] Basics of CSS
+    - [x] CSS Properties
+    
