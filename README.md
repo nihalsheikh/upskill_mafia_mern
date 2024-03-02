@@ -17,3 +17,6 @@
     - [x] Images
     - [x] Table
     - [x] Form
+
+**_Day 3_**
+
