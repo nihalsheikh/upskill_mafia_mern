@@ -21,4 +21,5 @@
 **_Day 3_**
 - [x] Basics of CSS
     - [x] CSS Properties
-    
+    - [x] Font and Mark
+    - [x] id, class, tags
